@@ -1,6 +1,6 @@
 # My Tutorial
 
-## Step 1
+## Step 1 @unplugged
 Add code to display smiley
 ![Agent building a tower](docs/static/Picture1.png)
 ```blocks
