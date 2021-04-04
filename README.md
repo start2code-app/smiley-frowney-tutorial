@@ -1,14 +1,9 @@
 
 > Open this page at [https://start2code-app.github.io/smiley-frowney-tutorial/](https://start2code-app.github.io/smiley-frowney-tutorial/)
 
-## Use as Extension
+## Tutorials
 
-This repository can be added as an **extension** in MakeCode.
-
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/start2code-app/smiley-frowney-tutorial** and import
+* [tutorial](/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/start2code-app/smiley-frowney-tutorial/workflows/MakeCode/badge.svg)
 
