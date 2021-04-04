@@ -3,6 +3,7 @@
 ## Step 1
 Add code to display smiley
 ```blocks
+bazaar.showStuff()
 basic.showString(":)")
 ```
 ## Step 2
