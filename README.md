@@ -3,7 +3,7 @@
 
 ## Tutorials
 
-* [tutorial](/tutorial)
+* [tutorial](/smiley-frowney-tutorial/tutorial)
 
 ## Edit this project ![Build status badge](https://github.com/start2code-app/smiley-frowney-tutorial/workflows/MakeCode/badge.svg)
 
