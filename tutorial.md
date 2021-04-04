@@ -2,7 +2,9 @@
 
 ## Step 1 @unplugged
 Add code to display smiley
-![Agent building a tower](docs/static/Picture1.png)
+
+![Agent building a tower](/static/tutorials/Picture1.png)
+
 ```blocks
 bazaar.showStuff()
 basic.showString(":)")
