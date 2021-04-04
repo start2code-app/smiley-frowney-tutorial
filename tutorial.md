@@ -2,6 +2,7 @@
 
 ## Step 1
 Add code to display smiley
+![Agent building a tower](/static/Picture1.png)
 ```blocks
 bazaar.showStuff()
 basic.showString(":)")
